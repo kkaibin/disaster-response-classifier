@@ -101,4 +101,4 @@ f1-score: 0.47
 
 <a name="Acknowledgement"></a>
 ### Acknowledgement
-Thanks to Appen for the data set and Udacity for the training.
+Thanks to Appen for the data set and Udacity for the template and training.
