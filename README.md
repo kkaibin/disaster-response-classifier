@@ -96,6 +96,9 @@ f1-score: 0.47
 <a name="Classification"></a>
 ### 2. Classification
 
+  <img src="image/Classification_input.png" height="500" alt="accuracy"/><br>
+  <img src="image/Classification_output.png" height="500" alt="accuracy"/><br>
+
 <a name="Acknowledgement"></a>
 ### Acknowledgement
 Thanks to Appen for the data set and Udacity for the training.
