@@ -17,7 +17,9 @@
 ### Objective:
   We would like to categorize real messages that were sent during disaster events so that we can send the messages to an appropriate disaster relief agency.
 
-  origin data:![image](picture or gif url)
+  origin data:\
+  <img src="image/original_data_messages.png" height="180" alt="original data-messages"/>
+  <img src="image/original_data_categories.png" height="150" alt="original data-categories"/><br/>  
 
 ### Overview:
   We will read the dataset provided by Appen, clean the data, and then store it in a SQLite database. We will then create a machine learning pipeline that uses NTLK, as well as scikit-learn's Pipeline and GridSearchCV to output a final model to predict classifications for 36 categories (multi-output classifications). Finally, there is a web app included where an emergency worker can input a new message and get classification results in several categories.
@@ -88,6 +90,8 @@ presicion: 0.75
 recall: 0.37
 \
 f1-score: 0.47
+\
+  <img src="image/accuracy.png" height="500" alt="accuracy"/>
 
 <a name="Classification"></a>
 ### 2. Classification
