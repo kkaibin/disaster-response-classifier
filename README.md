@@ -30,7 +30,7 @@
 <a name="Requirements"></a>
 ### 1. Requirements
 
-Python 3
+Python 3\
 Libraries: numpy, pandas, sys, sqalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries
 
 <a name="Filedescriptions"></a>
