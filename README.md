@@ -81,9 +81,13 @@ Libraries: numpy, pandas, sys, sqalchemy, re, NLTK, pickle, Sklearn, plotly and 
 ## Results
 
 <a name="ModelAccuracy"></a>
-### 1. Model Accuracy\
+### 1. Model Accuracy
 
-presicion: 0.75\ recall: 0.37\ f1-score: 0.47
+presicion: 0.75
+\
+recall: 0.37
+\
+f1-score: 0.47
 
 <a name="Classification"></a>
 ### 2. Classification
