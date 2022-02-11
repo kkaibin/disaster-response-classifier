@@ -96,8 +96,8 @@ f1-score: 0.47
 <a name="Classification"></a>
 ### 2. Classification
 
-  <img src="image/Classification_input.png" height="500" alt="accuracy"/><br>
-  <img src="image/Classification_output.png" height="500" alt="accuracy"/><br>
+  <img src="image/Classification_input.PNG" height="200" alt="Classification_input"/><br>
+  <img src="image/Classification_output.PNG" height="500" alt="Classification_output"/><br>
 
 <a name="Acknowledgement"></a>
 ### Acknowledgement
