@@ -53,6 +53,8 @@ Libraries: numpy, pandas, sys, sqalchemy, re, NLTK, pickle, Sklearn, plotly and 
 |- train_classifier.py      # machine learning pipeline
 |- classifier.pkl  　　　　　# saved model
 
+- image                     # images of the data and results
+
 - README.md
 </pre>
 
