@@ -85,11 +85,11 @@ Libraries: numpy, pandas, sys, sqalchemy, re, NLTK, pickle, Sklearn, plotly and 
 <a name="ModelAccuracy"></a>
 ### 1. Model Accuracy
 
-presicion: 0.75
+presicion: 0.78
 \
-recall: 0.37
+recall: 0.38
 \
-f1-score: 0.47
+f1-score: 0.48
 \
   <img src="image/accuracy.png" height="500" alt="accuracy"/>
 
