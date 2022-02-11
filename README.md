@@ -29,7 +29,7 @@
 ### 1. Requirements
 
 Python 3
-Libraries: numpy, pandas, sqalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries
+Libraries: numpy, pandas, sys, sqalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries
 
 <a name="Filedescriptions"></a>
 ### 2. File descriptions
@@ -81,9 +81,9 @@ Libraries: numpy, pandas, sqalchemy, re, NLTK, pickle, Sklearn, plotly and flask
 ## Results
 
 <a name="ModelAccuracy"></a>
-### 1. Model Accuracy
-![image](picture or gif url)
-![image](picture or gif url)
+### 1. Model Accuracy\
+
+presicion: 0.75\ recall: 0.37\ f1-score: 0.47
 
 <a name="Classification"></a>
 ### 2. Classification
