@@ -65,7 +65,7 @@ Libraries: numpy, pandas, sys, sqalchemy, re, NLTK, pickle, Sklearn, plotly and 
   \
   Run the following command in the root directory of the project.
   ```bat
-    'python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv'
+    'python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db'
   ```
   2.	Model training\
   \
